@@ -1,0 +1,100 @@
+1. Queen Elizabeth II - United Kingdom
+2. Louis XIV - France
+3. Peter I - Russia
+4. Akbar - India
+5. Emperor Meiji - Japan
+6. Queen Victoria - United Kingdom
+7. Charlemagne - Holy Roman Empire
+8. Catherine the Great - Russia
+9. Emperor Kangxi - China
+10. King Louis XVI - France
+11. Emperor Napoleon - France
+12. King George III - United Kingdom
+13. Emperor Constantine - Roman Empire
+14. Emperor Qianlong - China
+15. King Henry VIII - England
+16. Queen Isabella I - Spain
+17. Emperor Justinian I - Byzantine Empire
+18. Sultan Suleiman - Ottoman Empire
+19. Emperor Augustus - Roman Empire
+20. King Ferdinand II - Spain
+21. King Philip II - Spain
+22. Queen Cleopatra - Egypt
+23. Emperor Marcus Aurelius - Roman Empire
+24. King William the Conqueror - England
+25. Shah Jahan - Mughal Empire
+26. Emperor Franz Joseph - Austria-Hungary
+27. King Richard the Lionheart - England
+28. King Louis IX - France
+29. King James I - England and Scotland
+30. Emperor Taizong - Tang Dynasty, China
+31. King Gustav II Adolphus - Sweden
+32. Queen Anne - England, Scotland, and Ireland
+33. King Charles II - England, Scotland, and Ireland
+34. Emperor Ashoka - Maurya Empire, India
+35. King Alfonso X - Castile, León and Galicia
+36. Emperor Hirohito - Japan
+37. King Frederick II - Prussia
+38. King Leopold II - Belgium
+39. Emperor Haile Selassie - Ethiopia
+40. King George V - United Kingdom
+41. Queen Mary I - England
+42. King Louis XV - France
+43. King George VI - United Kingdom
+44. Emperor Hadrian - Roman Empire
+45. King Henry V - England
+46. King Edward I - England
+47. Emperor Wilhelm II - Germany
+48. King Charles I - England, Scotland, and Ireland
+49. King Solomon - Israel
+50. King Nebuchadnezzar II - Babylon
+51. King Ramesses II - Egypt
+52. King Harald V - Norway
+53. King Darius I - Persia
+54. King Alexander the Great - Macedonia
+55. Emperor Jahangir - Mughal Empire
+56. King Alfred the Great - England
+57. King Philip II - Macedonia
+58. King David - Israel
+59. King Hammurabi - Babylon
+60. King Henry II - England
+61. King Louis XIV - France
+62. King Edward III - England
+63. King Richard III - England
+64. Emperor Charlemagne - Holy Roman Empire
+65. King Ferdinand II - Aragon
+66. King James II - England and Ireland
+67. King William III - England, Scotland, and Ireland
+68. King Gustavus Adolphus - Sweden
+69. King Charles V - Holy Roman Empire
+70. King Henry VII - England
+71. King John - England
+72. Queen Victoria - United Kingdom
+73. King George III - United Kingdom
+74. King Frederick the Great - Prussia
+75. King Peter the Great - Russia
+76. King Louis XVI - France
+77. King William I - Prussia
+78. King Christian IV - Denmark and Norway
+79. King Edward VII - United Kingdom
+80. King George I - United Kingdom
+81. King George II - United Kingdom
+82. King James IV - Scotland
+83. King Edward the Confessor - England
+84. King Akbar - Mughal Empire
+85. Queen Elizabeth II - United Kingdom
+86. King Henry IV - France
+87. King Louis XVIII - France
+88. King Charles IX - France
+89. King Francis I - France
+90. King James V - Scotland
+91. King William IV - United Kingdom
+92. King Edward VIII - United Kingdom
+93. King George IV - United Kingdom
+94. King Henry III - England
+95. King Richard II - England
+96. King Edward II - England
+97. King Henry VI - England
+98. King Edward IV - England
+99. King Henry VIII - England
+100. King Charles II - Spain

@@ -1,0 +1,402 @@
+[
+    {
+        "monarchy": "Queen Elizabeth II",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "Louis XIV",
+        "country": "France"
+    },
+    {
+        "monarchy": "Peter I",
+        "country": "Russia"
+    },
+    {
+        "monarchy": "Akbar",
+        "country": "India"
+    },
+    {
+        "monarchy": "Emperor Meiji",
+        "country": "Japan"
+    },
+    {
+        "monarchy": "Queen Victoria",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "Charlemagne",
+        "country": "Holy Roman Empire"
+    },
+    {
+        "monarchy": "Catherine the Great",
+        "country": "Russia"
+    },
+    {
+        "monarchy": "Emperor Kangxi",
+        "country": "China"
+    },
+    {
+        "monarchy": "King Louis XVI",
+        "country": "France"
+    },
+    {
+        "monarchy": "Emperor Napoleon",
+        "country": "France"
+    },
+    {
+        "monarchy": "King George III",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "Emperor Constantine",
+        "country": "Roman Empire"
+    },
+    {
+        "monarchy": "Emperor Qianlong",
+        "country": "China"
+    },
+    {
+        "monarchy": "King Henry VIII",
+        "country": "England"
+    },
+    {
+        "monarchy": "Queen Isabella I",
+        "country": "Spain"
+    },
+    {
+        "monarchy": "Emperor Justinian I",
+        "country": "Byzantine Empire"
+    },
+    {
+        "monarchy": "Sultan Suleiman",
+        "country": "Ottoman Empire"
+    },
+    {
+        "monarchy": "Emperor Augustus",
+        "country": "Roman Empire"
+    },
+    {
+        "monarchy": "King Ferdinand II",
+        "country": "Spain"
+    },
+    {
+        "monarchy": "King Philip II",
+        "country": "Spain"
+    },
+    {
+        "monarchy": "Queen Cleopatra",
+        "country": "Egypt"
+    },
+    {
+        "monarchy": "Emperor Marcus Aurelius",
+        "country": "Roman Empire"
+    },
+    {
+        "monarchy": "King William the Conqueror",
+        "country": "England"
+    },
+    {
+        "monarchy": "Shah Jahan",
+        "country": "Mughal Empire"
+    },
+    {
+        "monarchy": "Emperor Franz Joseph",
+        "country": "Austria"
+    },
+    {
+        "monarchy": "King Richard the Lionheart",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Louis IX",
+        "country": "France"
+    },
+    {
+        "monarchy": "King James I",
+        "country": "England and Scotland"
+    },
+    {
+        "monarchy": "Emperor Taizong",
+        "country": "Tang Dynasty, China"
+    },
+    {
+        "monarchy": "King Gustav II Adolphus",
+        "country": "Sweden"
+    },
+    {
+        "monarchy": "Queen Anne",
+        "country": "England, Scotland, and Ireland"
+    },
+    {
+        "monarchy": "King Charles II",
+        "country": "England, Scotland, and Ireland"
+    },
+    {
+        "monarchy": "Emperor Ashoka",
+        "country": "Maurya Empire, India"
+    },
+    {
+        "monarchy": "King Alfonso X",
+        "country": "Castile, Le\u8d38n and Galicia"
+    },
+    {
+        "monarchy": "Emperor Hirohito",
+        "country": "Japan"
+    },
+    {
+        "monarchy": "King Frederick II",
+        "country": "Prussia"
+    },
+    {
+        "monarchy": "King Leopold II",
+        "country": "Belgium"
+    },
+    {
+        "monarchy": "Emperor Haile Selassie",
+        "country": "Ethiopia"
+    },
+    {
+        "monarchy": "King George V",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "Queen Mary I",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Louis XV",
+        "country": "France"
+    },
+    {
+        "monarchy": "King George VI",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "Emperor Hadrian",
+        "country": "Roman Empire"
+    },
+    {
+        "monarchy": "King Henry V",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Edward I",
+        "country": "England"
+    },
+    {
+        "monarchy": "Emperor Wilhelm II",
+        "country": "Germany"
+    },
+    {
+        "monarchy": "King Charles I",
+        "country": "England, Scotland, and Ireland"
+    },
+    {
+        "monarchy": "King Solomon",
+        "country": "Israel"
+    },
+    {
+        "monarchy": "King Nebuchadnezzar II",
+        "country": "Babylon"
+    },
+    {
+        "monarchy": "King Ramesses II",
+        "country": "Egypt"
+    },
+    {
+        "monarchy": "King Harald V",
+        "country": "Norway"
+    },
+    {
+        "monarchy": "King Darius I",
+        "country": "Persia"
+    },
+    {
+        "monarchy": "King Alexander the Great",
+        "country": "Macedonia"
+    },
+    {
+        "monarchy": "Emperor Jahangir",
+        "country": "Mughal Empire"
+    },
+    {
+        "monarchy": "King Alfred the Great",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Philip II",
+        "country": "Macedonia"
+    },
+    {
+        "monarchy": "King David",
+        "country": "Israel"
+    },
+    {
+        "monarchy": "King Hammurabi",
+        "country": "Babylon"
+    },
+    {
+        "monarchy": "King Henry II",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Louis XIV",
+        "country": "France"
+    },
+    {
+        "monarchy": "King Edward III",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Richard III",
+        "country": "England"
+    },
+    {
+        "monarchy": "Emperor Charlemagne",
+        "country": "Holy Roman Empire"
+    },
+    {
+        "monarchy": "King Ferdinand II",
+        "country": "Aragon"
+    },
+    {
+        "monarchy": "King James II",
+        "country": "England and Ireland"
+    },
+    {
+        "monarchy": "King William III",
+        "country": "England, Scotland, and Ireland"
+    },
+    {
+        "monarchy": "King Gustavus Adolphus",
+        "country": "Sweden"
+    },
+    {
+        "monarchy": "King Charles V",
+        "country": "Holy Roman Empire"
+    },
+    {
+        "monarchy": "King Henry VII",
+        "country": "England"
+    },
+    {
+        "monarchy": "King John",
+        "country": "England"
+    },
+    {
+        "monarchy": "Queen Victoria",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King George III",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King Frederick the Great",
+        "country": "Prussia"
+    },
+    {
+        "monarchy": "King Peter the Great",
+        "country": "Russia"
+    },
+    {
+        "monarchy": "King Louis XVI",
+        "country": "France"
+    },
+    {
+        "monarchy": "King William I",
+        "country": "Prussia"
+    },
+    {
+        "monarchy": "King Christian IV",
+        "country": "Denmark and Norway"
+    },
+    {
+        "monarchy": "King Edward VII",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King George I",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King George II",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King James IV",
+        "country": "Scotland"
+    },
+    {
+        "monarchy": "King Edward the Confessor",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Akbar",
+        "country": "Mughal Empire"
+    },
+    {
+        "monarchy": "Queen Elizabeth II",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King Henry IV",
+        "country": "France"
+    },
+    {
+        "monarchy": "King Louis XVIII",
+        "country": "France"
+    },
+    {
+        "monarchy": "King Charles IX",
+        "country": "France"
+    },
+    {
+        "monarchy": "King Francis I",
+        "country": "France"
+    },
+    {
+        "monarchy": "King James V",
+        "country": "Scotland"
+    },
+    {
+        "monarchy": "King William IV",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King Edward VIII",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King George IV",
+        "country": "United Kingdom"
+    },
+    {
+        "monarchy": "King Henry III",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Richard II",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Edward II",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Henry VI",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Edward IV",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Henry VIII",
+        "country": "England"
+    },
+    {
+        "monarchy": "King Charles II",
+        "country": "Spain"
+    }
+]

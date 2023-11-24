@@ -1,0 +1,488 @@
+[
+    {
+        "monarchy": "Akbar",
+        "country": "India",
+        "Born": 1542,
+        "Died": 1605
+    },
+    {
+        "monarchy": "Catherine the Great",
+        "country": "Russia",
+        "Born": 1729,
+        "Died": 1796
+    },
+    {
+        "monarchy": "Charlemagne",
+        "country": "Holy Roman Empire",
+        "Born": 747,
+        "Died": 814
+    },
+    {
+        "monarchy": "Emperor Ashoka",
+        "country": "Maurya Empire, India",
+        "Born": -268,
+        "Died": -232
+    },
+    {
+        "monarchy": "Emperor Augustus",
+        "country": "Roman Empire",
+        "Born": -63,
+        "Died": 14
+    },
+    {
+        "monarchy": "Emperor Constantine",
+        "country": "Roman Empire",
+        "Born": 272,
+        "Died": 337
+    },
+    {
+        "monarchy": "Emperor Franz Joseph",
+        "country": "Austria",
+        "Born": 1830,
+        "Died": 1916
+    },
+    {
+        "monarchy": "Emperor Hadrian",
+        "country": "Roman Empire",
+        "Born": 76,
+        "Died": 138
+    },
+    {
+        "monarchy": "Emperor Hirohito",
+        "country": "Japan",
+        "Born": 1901,
+        "Died": 1989
+    },
+    {
+        "monarchy": "Emperor Jahangir",
+        "country": "Mughal Empire",
+        "Born": 1569,
+        "Died": 1627
+    },
+    {
+        "monarchy": "Emperor Justinian I",
+        "country": "Byzantine Empire",
+        "Born": 482,
+        "Died": 565
+    },
+    {
+        "monarchy": "Emperor Kangxi",
+        "country": "China",
+        "Born": 1654,
+        "Died": 1722
+    },
+    {
+        "monarchy": "Emperor Marcus Aurelius",
+        "country": "Roman Empire",
+        "Born": 121,
+        "Died": 180
+    },
+    {
+        "monarchy": "Emperor Meiji",
+        "country": "Japan",
+        "Born": 1852,
+        "Died": 1912
+    },
+    {
+        "monarchy": "Emperor Napoleon",
+        "country": "France",
+        "Born": 1769,
+        "Died": 1821
+    },
+    {
+        "monarchy": "Emperor Qianlong",
+        "country": "China",
+        "Born": 1711,
+        "Died": 1799
+    },
+    {
+        "monarchy": "Emperor Taizong",
+        "country": "Tang Dynasty, China",
+        "Born": 598,
+        "Died": 649
+    },
+    {
+        "monarchy": "Emperor Wilhelm II",
+        "country": "Germany",
+        "Born": 1859,
+        "Died": 1941
+    },
+    {
+        "monarchy": "King Alexander the Great",
+        "country": "Macedonia",
+        "Born": -356,
+        "Died": -323
+    },
+    {
+        "monarchy": "King Alfonso X",
+        "country": "Castile, Leon and Galicia",
+        "Born": 1221,
+        "Died": 1284
+    },
+    {
+        "monarchy": "King Alfred the Great",
+        "country": "England",
+        "Born": 848,
+        "Died": 899
+    },
+    {
+        "monarchy": "King Charles I",
+        "country": "England, Scotland, and Ireland",
+        "Born": 1600,
+        "Died": 1649
+    },
+    {
+        "monarchy": "King Charles II",
+        "country": "England, Scotland, and Ireland",
+        "Born": 1630,
+        "Died": 1685
+    },
+    {
+        "monarchy": "King Charles II",
+        "country": "Spain",
+        "Born": 1661,
+        "Died": 1700
+    },
+    {
+        "monarchy": "King Charles IX",
+        "country": "France",
+        "Born": 1550,
+        "Died": 1574
+    },
+    {
+        "monarchy": "King Charles V",
+        "country": "Holy Roman Empire",
+        "Born": 1500,
+        "Died": 1558
+    },
+    {
+        "monarchy": "King Darius I",
+        "country": "Persia",
+        "Born": -550,
+        "Died": -486
+    },
+    {
+        "monarchy": "King David",
+        "country": "Israel",
+        "Born": -1000,
+        "Died": -1000
+    },
+    {
+        "monarchy": "King Edward I",
+        "country": "England",
+        "Born": 1239,
+        "Died": 1307
+    },
+    {
+        "monarchy": "King Edward II",
+        "country": "England",
+        "Born": 1284,
+        "Died": 1327
+    },
+    {
+        "monarchy": "King Edward III",
+        "country": "England",
+        "Born": 1312,
+        "Died": 1377
+    },
+    {
+        "monarchy": "King Edward IV",
+        "country": "England",
+        "Born": 1442,
+        "Died": 1483
+    },
+    {
+        "monarchy": "King Edward the Confessor",
+        "country": "England",
+        "Born": 1042,
+        "Died": 1066
+    },
+    {
+        "monarchy": "King Edward VII",
+        "country": "United Kingdom",
+        "Born": 1841,
+        "Died": 1910
+    },
+    {
+        "monarchy": "King Edward VIII",
+        "country": "United Kingdom",
+        "Born": 1894,
+        "Died": 1972
+    },
+    {
+        "monarchy": "King Ferdinand II",
+        "country": "Spain",
+        "Born": 1452,
+        "Died": 1516
+    },
+    {
+        "monarchy": "King Francis I",
+        "country": "France",
+        "Born": 1494,
+        "Died": 1547
+    },
+    {
+        "monarchy": "King Frederick II",
+        "country": "Prussia",
+        "Born": 1712,
+        "Died": 1786
+    },
+    {
+        "monarchy": "King George I",
+        "country": "United Kingdom",
+        "Born": 1660,
+        "Died": 1727
+    },
+    {
+        "monarchy": "King George II",
+        "country": "United Kingdom",
+        "Born": 1683,
+        "Died": 1760
+    },
+    {
+        "monarchy": "King George III",
+        "country": "United Kingdom",
+        "Born": 1738,
+        "Died": 1820
+    },
+    {
+        "monarchy": "King George IV",
+        "country": "United Kingdom",
+        "Born": 1762,
+        "Died": 1830
+    },
+    {
+        "monarchy": "King George V",
+        "country": "United Kingdom",
+        "Born": 1865,
+        "Died": 1936
+    },
+    {
+        "monarchy": "King George VI",
+        "country": "United Kingdom",
+        "Born": 1895,
+        "Died": 1952
+    },
+    {
+        "monarchy": "King Gustavus Adolphus",
+        "country": "Sweden",
+        "Born": 1594,
+        "Died": 1632
+    },
+    {
+        "monarchy": "King Hammurabi",
+        "country": "Babylon",
+        "Born": -1792,
+        "Died": -1750
+    },
+    {
+        "monarchy": "King Henry II",
+        "country": "England",
+        "Born": 1133,
+        "Died": 1189
+    },
+    {
+        "monarchy": "King Henry III",
+        "country": "England",
+        "Born": 1207,
+        "Died": 1272
+    },
+    {
+        "monarchy": "King Henry IV",
+        "country": "France",
+        "Born": 1367,
+        "Died": 1413
+    },
+    {
+        "monarchy": "King Henry V",
+        "country": "England",
+        "Born": 1386,
+        "Died": 1422
+    },
+    {
+        "monarchy": "King Henry VI",
+        "country": "England",
+        "Born": 1421,
+        "Died": 1471
+    },
+    {
+        "monarchy": "King Henry VII",
+        "country": "England",
+        "Born": 1457,
+        "Died": 1509
+    },
+    {
+        "monarchy": "King Henry VIII",
+        "country": "England",
+        "Born": 1491,
+        "Died": 1547
+    },
+    {
+        "monarchy": "King James I",
+        "country": "England and Scotland",
+        "Born": 1566,
+        "Died": 1625
+    },
+    {
+        "monarchy": "King James II",
+        "country": "England and Ireland",
+        "Born": 1633,
+        "Died": 1701
+    },
+    {
+        "monarchy": "King John",
+        "country": "England",
+        "Born": 1166,
+        "Died": 1216
+    },
+    {
+        "monarchy": "King Leopold II",
+        "country": "Belgium",
+        "Born": 1835,
+        "Died": 1909
+    },
+    {
+        "monarchy": "King Louis IX",
+        "country": "France",
+        "Born": 1214,
+        "Died": 1270
+    },
+    {
+        "monarchy": "King Louis XV",
+        "country": "France",
+        "Born": 1710,
+        "Died": 1774
+    },
+    {
+        "monarchy": "King Louis XVI",
+        "country": "France",
+        "Born": 1754,
+        "Died": 1793
+    },
+    {
+        "monarchy": "King Louis XVIII",
+        "country": "France",
+        "Born": 1755,
+        "Died": 1824
+    },
+    {
+        "monarchy": "King Nebuchadnezzar II",
+        "country": "Babylon",
+        "Born": -642,
+        "Died": -562
+    },
+    {
+        "monarchy": "King Philip II",
+        "country": "Spain",
+        "Born": 1527,
+        "Died": 1598
+    },
+    {
+        "monarchy": "King Ramesses II",
+        "country": "Egypt",
+        "Born": -1303,
+        "Died": -1213
+    },
+    {
+        "monarchy": "King Richard II",
+        "country": "England",
+        "Born": 1367,
+        "Died": 1400
+    },
+    {
+        "monarchy": "King Richard III",
+        "country": "England",
+        "Born": 1452,
+        "Died": 1485
+    },
+    {
+        "monarchy": "King Richard the Lionheart",
+        "country": "England",
+        "Born": 1157,
+        "Died": 1199
+    },
+    {
+        "monarchy": "King Solomon",
+        "country": "Israel",
+        "Born": -970,
+        "Died": -931
+    },
+    {
+        "monarchy": "King William I",
+        "country": "Prussia",
+        "Born": 1797,
+        "Died": 1888
+    },
+    {
+        "monarchy": "King William III",
+        "country": "England, Scotland, and Ireland",
+        "Born": 1650,
+        "Died": 1702
+    },
+    {
+        "monarchy": "King William IV",
+        "country": "United Kingdom",
+        "Born": 1765,
+        "Died": 1837
+    },
+    {
+        "monarchy": "King William the Conqueror",
+        "country": "England",
+        "Born": 1028,
+        "Died": 1087
+    },
+    {
+        "monarchy": "Louis XIV",
+        "country": "France",
+        "Born": 1638,
+        "Died": 1715
+    },
+    {
+        "monarchy": "Peter I",
+        "country": "Russia",
+        "Born": 1672,
+        "Died": 1725
+    },
+    {
+        "monarchy": "Queen Anne",
+        "country": "England, Scotland, and Ireland",
+        "Born": 1665,
+        "Died": 1714
+    },
+    {
+        "monarchy": "Queen Cleopatra",
+        "country": "Egypt",
+        "Born": -69,
+        "Died": -30
+    },
+    {
+        "monarchy": "Queen Elizabeth II",
+        "country": "United Kingdom",
+        "Born": 1926,
+        "Died": 2022
+    },
+    {
+        "monarchy": "Queen Isabella I",
+        "country": "Spain",
+        "Born": 1451,
+        "Died": 1504
+    },
+    {
+        "monarchy": "Queen Mary I",
+        "country": "England",
+        "Born": 1516,
+        "Died": 1558
+    },
+    {
+        "monarchy": "Queen Victoria",
+        "country": "United Kingdom",
+        "Born": 1819,
+        "Died": 1901
+    },
+    {
+        "monarchy": "Sultan Suleiman",
+        "country": "Ottoman Empire",
+        "Born": 1494,
+        "Died": 1566
+    }
+]
